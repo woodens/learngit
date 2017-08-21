@@ -1,2 +1,2 @@
 first commit
-creatting a new branch is quick
+creatting a new branch is quick and simple
